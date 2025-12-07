@@ -27,7 +27,7 @@ A lightweight and extensible toolkit **AttentionLens-LVLM** for visualizing atte
    pip install -r requirements.txt
    ```
 
-3. For usage examples, please refer to `AttentionLens-VLM/llava_vis.ipynb`.
+3. For usage examples, please refer to `AttentionLens-LVLM/llava1.5/llava_vis.ipynb`.
 
 ## Visualization at a Glance
 
@@ -44,7 +44,7 @@ A lightweight and extensible toolkit **AttentionLens-LVLM** for visualizing atte
     <img src="asset/Attention%20Map.png" width="40%" />
 </p>
 
-***Specific and Output Attention Map:***
+***Output and Specific Attention Map:***
 
 <p float="left">
     <img src="asset/Output%20Attention%20Map.png" width="43%" />
