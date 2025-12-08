@@ -31,6 +31,12 @@ A lightweight and extensible toolkit **AttentionLens-LVLM** for visualizing atte
 
 ## Visualization at a Glance
 
+***Average Attention Map (gamma_factor = 4):***
+
+<p float="left">
+    <img src="asset/Attention%20Map.png" width="100%" />
+</p>
+
 ***Layer-wise Attention Maps:***
 
 <p float="left">
@@ -38,23 +44,31 @@ A lightweight and extensible toolkit **AttentionLens-LVLM** for visualizing atte
 </p>
 
 
-***Average Attention Map:***
+***Head-wise Attention Maps:***
 
 <p float="left">
-    <img src="asset/Attention%20Map.png" width="40%" />
+  <img src="asset/Head-wise%20Attention%20Maps.png" width="100%" />
 </p>
+
 
 ***Output and Specific Attention Map:***
 
 <p float="left">
-    <img src="asset/Output%20Attention%20Map.png" width="43%" />
-    <img src="asset/Specific%20Attention%20Map.png" width="52%" />
+    <img src="asset/Output%20Attention%20Map.png" width="100%" />
 </p>
+
+
+***Mapping Attention on Raw Picture:***
+
+<p float="left">
+    <img src="asset/Mapping.png" width="100%" />
+</p>
+
 
 ***Semantic Evolution Visualization:***
 
 <p float="left">
-    <img src="asset/Semantic%20Evolution%20Visualization.png" width="95%" />
+    <img src="asset/Semantic%20Evolution%20Visualization.png" width="100%" />
 </p>
 
 
@@ -65,11 +79,11 @@ Currently supported models include:
 
 - **LLaVA-1.5-7B**
 
-More models coming soon™. If you can’t wait, feel free to drop in and contribute—we won’t stop you.
+More models will be added soon. If you would like support for additional models, contributions are welcome.
 
 ## Contributing
 
-Contributions are welcome! Go ahead—fork with confidence and send us a pull request. We’ll take a look, nod thoughtfully, and (probably) merge it once it passes review.
+Just fork the repo and submit a pull request—we’ll review it and merge it once everything looks good.
 
 ## License
 
