@@ -31,7 +31,7 @@ A lightweight and extensible toolkit **AttentionLens-LVLM** for visualizing atte
 
 ## Visualization at a Glance
 
-***Average Attention Map (gamma_factor = 4):***
+***Average Attention Map:***
 
 <p float="left">
     <img src="asset/Attention%20Map.png" width="100%" />
@@ -51,7 +51,7 @@ A lightweight and extensible toolkit **AttentionLens-LVLM** for visualizing atte
 </p>
 
 
-***Output and Specific Attention Map:***
+***Specific and Output Attention Maps:***
 
 <p float="left">
     <img src="asset/Output%20Attention%20Map.png" width="100%" />
